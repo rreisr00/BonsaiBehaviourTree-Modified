@@ -1,0 +1,7 @@
+{
+  "name": "com.github.bonsai.behavior-tree",
+  "description": "Provides behavior tree for unity",
+  "version": "1.8.0",
+  "unity": "2018.1",
+  "displayName": "bonsai"
+}
